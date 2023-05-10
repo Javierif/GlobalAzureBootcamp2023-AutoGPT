@@ -1,0 +1,1 @@
+{time:99,operaciones:0,mineral:205,gas:0,gamestatus:playing,supply:2,supplyArmy:0,larvas:3}
